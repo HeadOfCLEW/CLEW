@@ -1,0 +1,29 @@
+body {
+  background-color: green;
+  color: white;
+}
+#box {
+  width: 300px;
+  height: 100px;
+  border: 5px solid white;
+  margin: 20px auto;
+  text-align: center;
+  line-height: 100px;
+  font-size: 70px;
+  color: white;
+}
+#button {
+  display: block;
+  width: 150px;
+  height: 70px;
+  margin: 0 auto;
+  background-color: white;
+  color: green;
+  font-size: 40px;
+}
+#list {
+  width: 300px;
+  margin: 0 auto;
+  font-size: 30px;
+  color: white;
+}
